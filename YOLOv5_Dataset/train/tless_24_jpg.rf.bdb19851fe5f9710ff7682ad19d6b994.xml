@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>tless_24_jpg.rf.bdb19851fe5f9710ff7682ad19d6b994.jpg</filename>
+	<path>tless_24_jpg.rf.bdb19851fe5f9710ff7682ad19d6b994.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
